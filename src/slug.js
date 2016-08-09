@@ -1,7 +1,6 @@
 let _ = require('underscore');
 let slugCharMap = {};
 
-
 // normalizes a slug based on a char mapping
 // removes not specified characters
 // example:
